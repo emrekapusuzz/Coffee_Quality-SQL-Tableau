@@ -1,7 +1,7 @@
 <h1 align = 'center'>  Coffee Quality  - A SQL and Tableau Project </h1>
 <p align = 'center'>
   
- <img src = 'https://i.pinimg.com/originals/90/9a/4c/909a4ca496c0a739ce2ead54f70b4eab.gif'>
+ <img src = 'https://i.pinimg.com/originals/fb/61/36/fb6136feef61974c935e421c7e2443ea.gif'>
 
 </p>
 
