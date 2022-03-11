@@ -6,7 +6,7 @@
 </p>
 
 
-This is a MySQL project. Steps followed:
+**This is a MySQL project. Steps followed :
 
   - Filled empty rows with EXCEL, this removes the import errors in MySQLWorkBench
   - Update, alter the data with SQL
